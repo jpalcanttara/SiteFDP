@@ -52,7 +52,7 @@ try {
 
         <!-- start: Meta -->
         <meta charset="utf-8">
-        <title>SR-PHP-CMRV</title>
+        <title>Gestão</title>
         <meta name="description" content="SR-PHP-CMRV">
         <meta name="author" content="SOFT-ROM Sistemas">
         <meta name="keyword" content="SOFT-ROM Sistemas">
@@ -98,7 +98,7 @@ try {
                     <span class="icon-bar"></span>
                 </button>
                 <a id="main-menu-toggle" class="hidden-xs open"><i class="fa fa-bars"></i></a>
-                <a class="navbar-brand col-lg-2 col-sm-1 col-xs-12" href="./"><span>SOFT-ROM Sistemas</span></a>
+                <a class="navbar-brand col-lg-2 col-sm-1 col-xs-12" href="./"><span>Festival Filhos da PUC</span></a>
                 <!-- start: Header Menu -->
                 <div class="nav-no-collapse header-nav">
                     <ul class="nav navbar-nav pull-right">
@@ -377,9 +377,6 @@ try {
 
                 <!-- start: Main Menu -->
                 <div id="sidebar-left" class="col-lg-2 col-sm-1">
-
-                    <input type="text" class="search hidden-sm" placeholder="..." />
-
                     <div class="nav-collapse sidebar-nav collapse navbar-collapse bs-navbar-collapse">
                         <ul class="nav nav-tabs nav-stacked main-menu">
                             <li><a href="./"><i class="fa fa-bar-chart-o"></i><span class="hidden-sm"> Visão Geral</span></a></li>
@@ -430,15 +427,12 @@ try {
             <div class="row">
 
                 <div class="col-sm-5">
-                    &copy; 2014 <a href="http://softrom.com.br">SOFT-ROM Sistemas</a>
+                    <a href="#">Festival Filhos da PUC</a>
                 </div><!--/.col-->
 
                 <div class="col-sm-7 text-right">
                     Powered by:
-                    <a href="http://php.net" class="link_externo" alt="PHP">PHP</a> | 
-                    <a href="http://mysql.com" class="link_externo" alt="MySQL">MySQL</a> | 
-                    <a href="http://jquery.com" class="link_externo" alt="jQuery">jQuery</a> | 
-                    <a href="http://getbootstrap.com" class="link_externo" alt="Bootstrap">Bootstrap</a>
+                    <a href="http://4mentes.com.br" class="link_externo" alt="PHP">4MENTES</a>
                 </div><!--/.col-->
 
             </div><!--/.row-->
