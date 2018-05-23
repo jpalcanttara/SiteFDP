@@ -1,0 +1,39 @@
+#logo_menu{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    margin: 20px 20px 20px 20px;
+}
+.img-banner{
+    max-height: 370px;
+    max-width: 500px;
+}
+.top-nav-social a.whatsapp:hover {
+  background-color: #34af23;
+  color: #fff;
+}
+
+.btn-social.whatsapp:hover,
+.btn-social.whatsapp.solid {
+  color: #fff;
+  background-color: #34af23;
+}
+.facebook_thumb{
+    padding: 30px;
+    background-color: #3b5998 !important;
+}
+.instagram_thumb{
+    padding: 30px;
+    background-color: #517fa4 !important;
+}
+.whatsapp_thumb{
+    padding: 30px;
+    background-color: #34af23 !important;
+}
+.twitter_thumb{
+    padding: 30px;
+    background-color: #00aced !important;
+}
+.img-caption-ar >i{
+    font-size: 70px;
+}
