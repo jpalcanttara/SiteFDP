@@ -28,7 +28,7 @@
 
 $lumineConfig = array(
     'dialect' => 'MySQLi', 
-    'database' => 'sr_php_cmrv', 
+    'database' => 'BD_SiteFDP', 
     'user' => 'root', 
     'password' => '11202270', 
     'port' => '3306', 
